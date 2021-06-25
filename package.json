@@ -4,8 +4,8 @@
   "private": true,
   "version": "3.0.0",
   "main": "index.js",
-  "repository": "https://github.com/srtucker22/chatty.git",
-  "author": "Simon Tucker <srtucker22@gmail.com>",
+  "repository": "https://github.com/WorqHat/Chatty-WhatsApp-Clone",
+  "author": "WorqHat",
   "license": "MIT",
   "scripts": {
     "start": "nodemon --watch server --watch package.json --watch .env server/index.js --exec babel-node --presets es2015,stage-2"
