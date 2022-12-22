@@ -31,7 +31,7 @@
     "graphql": "^0.13.2",
     "graphql-date": "^1.0.3",
     "iterall": "^1.2.2",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.4",
     "sequelize": "^4.4.2",
     "sqlite3": "^4.0.1"
